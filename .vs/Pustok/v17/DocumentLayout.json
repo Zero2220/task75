@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Pustok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\areas\\manage\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\areas\\manage\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\areas\\manage\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\wwwroot\\manage\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\wwwroot\\manage\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\wwwroot\\manage\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\wwwroot\\manage\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\migrations\\20240506105355_tagsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\migrations\\20240506105355_tagsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\asus\\desktop\\pustok\\pustok\\migrations\\20240506104630_stabilize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\migrations\\20240506104630_stabilize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAE8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:12:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240506105355_tagSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Migrations\\20240506105355_tagSettings.cs",
+              "RelativeDocumentMoniker": "Pustok\\Migrations\\20240506105355_tagSettings.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Migrations\\20240506105355_tagSettings.cs",
+              "RelativeToolTip": "Pustok\\Migrations\\20240506105355_tagSettings.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:53:56.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Pustok\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Models\\Tag.cs",
+              "RelativeToolTip": "Pustok\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:50:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240506104630_stabilize.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Migrations\\20240506104630_stabilize.cs",
+              "RelativeDocumentMoniker": "Pustok\\Migrations\\20240506104630_stabilize.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Migrations\\20240506104630_stabilize.cs",
+              "RelativeToolTip": "Pustok\\Migrations\\20240506104630_stabilize.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:46:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Pustok\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\appsettings.Development.json",
+              "RelativeToolTip": "Pustok\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T10:45:35.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\appsettings.json",
+              "RelativeDocumentMoniker": "Pustok\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\appsettings.json",
+              "RelativeToolTip": "Pustok\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T10:45:02.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Program.cs",
+              "RelativeDocumentMoniker": "Pustok\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Program.cs",
+              "RelativeToolTip": "Pustok\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:10:25.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T17:01:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\wwwroot\\manage\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "Pustok\\wwwroot\\manage\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\wwwroot\\manage\\assets\\css\\style.css",
+              "RelativeToolTip": "Pustok\\wwwroot\\manage\\assets\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-02T17:00:57.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\wwwroot\\manage\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "Pustok\\wwwroot\\manage\\assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\wwwroot\\manage\\assets\\js\\main.js",
+              "RelativeToolTip": "Pustok\\wwwroot\\manage\\assets\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-02T16:55:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T16:34:50.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Pustok\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Models\\Book.cs",
+              "RelativeToolTip": "Pustok\\Models\\Book.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA8wCcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:34:22.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwFEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:22:39.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:22:24.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
